@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ACS35Test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="reset">Reset</string>
+
+    <string-array name="key_type_entries">
+		<item>KeyA</item>
+		<item>KeyB</item>
+	</string-array>
+	<string-array name="key_type_entry_values">
+		<item>0x60</item>
+		<item>0x61</item>
+		</string-array>
+</resources>
